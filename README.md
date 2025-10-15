@@ -1,6 +1,6 @@
 WIKI OURO PRETO
 
-O foco do meu projeto é a criação de um site que serve como um guia turistico da cidade de Ouro Preto - MG, nele se encontra ponros como:
+O foco do meu projeto é a criação de um site que serve como um guia turistico da cidade de Ouro Preto - MG, nele se encontra pontos como:
 - Inicio -  foco em contar sobre a cidade de Ouro Preto;
 - Pontos Turisticos - mostra os principais pontos turisticos da cidade de Ouro Preto, para quem quer conhecer mais da cidade;
 - Clima - Fala sobre a região, a vegetação e temperatura;
